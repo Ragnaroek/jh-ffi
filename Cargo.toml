@@ -2,6 +2,10 @@
 name = "jh-ffi"
 version = "0.0.1"
 authors = ["Michael Bohn <spaceodyssey@gmx.de>"]
+description = "Rust JH hash function (via ffi binding)"
+license = "GPL-3.0"
+repository = "https://github.com/Ragnaroek/jh-ffi"
+
 
 [lib]
 name = "jhffi"
