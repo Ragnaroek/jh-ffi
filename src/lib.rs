@@ -14,6 +14,7 @@ pub fn hash(hashbitlen: i32, data: &[u8], hashval: &mut [u8]) -> Result<()> {
     }
 }
 
+#[derive(Debug, Clone, Copy, Hash, PartialEq, Eq)]
 pub enum JhError {
     /// Generic failure state
     Fail,
