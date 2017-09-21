@@ -1,6 +1,6 @@
 [package]
 name = "jh-ffi"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Michael Bohn <spaceodyssey@gmx.de>"]
 description = "Rust JH hash function (via ffi binding)"
 license = "GPL-3.0"
