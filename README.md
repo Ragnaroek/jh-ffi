@@ -4,3 +4,5 @@
 # jh-ffi
 rust jh hash ffi bindings
 
+The C-Code has been taken from xmr-stak-cpu: https://github.com/fireice-uk/xmr-stak-cpu
+
