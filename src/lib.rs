@@ -1,4 +1,4 @@
-
+#![feature(rustc_private)]
 #![feature(libc)]
 
 extern crate libc;
