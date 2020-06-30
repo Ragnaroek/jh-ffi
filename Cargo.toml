@@ -11,4 +11,4 @@ repository = "https://github.com/Ragnaroek/jh-ffi"
 name = "jhffi"
 
 [build-dependencies]
-cc = "1.0.26"
+cc = "1.0.56"
